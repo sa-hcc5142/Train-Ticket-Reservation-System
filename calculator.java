@@ -3,5 +3,5 @@ public class calculator{
         System.out.println("Eta jog : a+b");
         System.out.println("Eta biyog : a-b");
     }
-    //comment
+    
 }
